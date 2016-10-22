@@ -1,0 +1,18 @@
+FORMAT: 1A
+HOST: https://api.foobar.com
+
+# Twitter Extension Api
+
+# GET /poke
+
++ Request
+    + Headers
+
+            Authorization: Basic kl2j4l3kj23l
+            Host: localhost:8080
+
+    + Body
+
+	    dlfksjflksldkfj
+            
+
